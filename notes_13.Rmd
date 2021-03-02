@@ -1,0 +1,69 @@
+---
+title: "Foundations of inference"
+author: ""
+date: ""
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
+                      comment = "#>", highlight = TRUE,
+                      fig.align = "center")
+```
+
+## Main ideas
+
+- Understand statistical process terminology
+
+- Understand the types of conclusions that can be made given the underlying
+  statistical process
+  
+# Polls and statistical terminology
+
+Go to the Monmouth University Polling Institute 
+[website](https://www.monmouth.edu/polling-institute/reports/) and select a 
+poll of interest. Briefly read the poll results and methodology section at the
+end. Try and identify the following:
+
+- Population of interest:
+
+- Parameter of interest:
+
+- Sample:
+
+- Sample size:
+
+- Sample statistic:
+
+- Sample statistic's value:
+
+Link to poll:
+
+
+# Confounding variables
+
+A group of researchers decide to study the causes of heart disease by carrying 
+out an observational study. The researchers find that the people in their 
+study who ate lots of red meat also developed heart disease. They believe they 
+have found a link (or ‘correlation’) between eating red meat and developing 
+heart disease, and they (or those reading their research) might be tempted to 
+conclude that eating lots of red meat is a cause of heart disease. However, 
+before making a conclusion like this, the researchers must think about 
+confounding factors (variables).
+
+List three confounding factors that could be at play here.
+
+1.
+
+2. 
+
+3.
+
+Given that the above study was observational, what type of conclusion can be
+made?
+
+# References
+
+1. https://www.understandinghealthresearch.org/useful-information/confounders-17
